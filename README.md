@@ -16,7 +16,7 @@ The project includes detailed documentation files from **Day 1 to Day 6**, avail
 
 ## About the Developer
 
-This project was created by **Ali Hamza** as part of a hackathon challenge, demonstrating expertise in modern web development techniques and E-Commerce solutions.
+This project was created by **Sheeraz Ali** as part of a hackathon challenge, demonstrating expertise in modern web development techniques and E-Commerce solutions.
 
 ---
 
